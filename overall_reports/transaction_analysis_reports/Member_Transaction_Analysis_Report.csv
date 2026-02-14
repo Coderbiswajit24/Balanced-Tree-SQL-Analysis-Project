@@ -1,0 +1,3 @@
+customer_type,total_transactions,transaction_pct,net_revenue_in_thousand_usd,revenue_pct,avg_transactional_revenue_in_usd
+Non-Member,995,39.8,449.75,39.69,452.01
+Member,1505,60.2,683.48,60.31,454.14

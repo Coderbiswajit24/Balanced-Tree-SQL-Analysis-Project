@@ -1,0 +1,3 @@
+"customer_type","total_transactions","avg_transaction_value_in_usd","gross_revenue_in_thousand_usd","total_discount_in_thousand_usd","net_revenue_in_thousand__usd","transaction_pct","revenue_pct"
+"Member","492","451.93","253.84","31.49","222.35","59.42","60.24"
+"Non-Member","336","436.71","166.83","20.10","146.73","40.58","39.76"

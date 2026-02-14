@@ -1,0 +1,7 @@
+"metric_name","metric_value"
+"Total Unique Transactions","2500"
+"Average Unique Products Per Transaction(Busket Size)","6"
+"25th Percentile of Transactional Revenue(in USD)","326.41"
+"50th Percentile of Transactional Revenue (in USD)","441.23"
+"75th Percentile of Transactional Revenue (in USD)","572.76"
+"Average Discount Per Transaction(in USD)","62.49"
