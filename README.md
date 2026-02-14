@@ -8,7 +8,7 @@
 
 **End-to-end retail analytics using SQL, Power BI, and PostgreSQL**
 
-[View Dashboard](#) | [SQL Queries](./sql_queries) | [Presentation](./presentation)
+[View Dashboard](./powerbi_visual_reports) | [SQL Queries](./sql_queries) | [Presentation](./presentation)
 
 </div>
 
